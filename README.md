@@ -1,2 +1,2 @@
 # Beyond-Horizon
-A Portfolio Website for Mike Bain
+A Portfolio Website using Bulma framework.
