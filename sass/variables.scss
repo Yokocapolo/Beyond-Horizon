@@ -1,0 +1,36 @@
+// My Colours
+$white: #fff;
+$blue: rgb(4, 150, 255);
+$nav-color: rgba(4, 150, 255, .1);
+$nav-hover-color: rgba(0, 0, 0, .6);
+$title-font: factorregular;
+$nav-font: copperplate_gothic_lightRg;
+$main-font: Consolas-BoldItalic;
+$title-size: 3.5rem;
+$subtitle-touch-size: .65rem;
+$subtitle-margin-top: -1.8rem;
+$footer-bk-color: transparent;
+$youtube: #fb0007;
+$vimeo: #1ea8e5;
+
+//Update Bulma global variables
+$primary: $white;
+$info: $blue;
+$link: $white;
+$size-1: $title-size;
+$size-7: $subtitle-touch-size;
+$title-family: $title-font;
+$subtitle-family: $title-font;
+$family-secondary: $nav-font;
+$title-color: $primary;
+$subtitle-color: $primary;
+$family-primary: $main-font;
+$subtitle-negative-margin: $subtitle-margin-top;
+$link-hover: $primary;
+$navbar-background-color: $nav-color;
+$navbar-item-hover-background-color: $nav-hover-color;
+$gap: 84px;
+$footer-background-color: $footer-bk-color;
+$danger: $youtube;
+$dark: $vimeo;
+$text: $primary;

@@ -1,0 +1,16 @@
+/* TEAM */
+  Chief: Mike Bain
+  Contact: mike@beyondhorizonproductions.co.uk
+  From: UK
+
+  UI Developer: Mike Lonsdale
+  Contact: mike@mikelonsdale.co.uk
+
+  Designer: Mike Bain
+
+  Web Developer: Mike Lonsdale
+
+/* SITE */
+  Language: English
+  Doctype: HTML5
+  IDE: Sublime Text, Filezilla, Photoshop
