@@ -4,7 +4,7 @@ Work in progress.
 
 To-do
 
-- Main page
+- ~~Main page~~
 - ~~Create simple gallery for mobile devices~~
 - ~~Create a fullscreen background image gallery for tablet and larger devices~~
 - ~~Photography page~~
